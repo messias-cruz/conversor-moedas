@@ -25,7 +25,7 @@ Este projeto é um **conversor de moedas via console**, desenvolvido como parte 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/conversor-moedas.git
+   git clone https://github.com/messias-cruz/conversor-moedas.git
 
 2. Acesse a pasta do projeto:
    cd conversor-moedas
